@@ -1,3 +1,5 @@
+#revision by rudransh - 22-may
+
 N = int(input())
 
 for i in range(0, N):
@@ -14,4 +16,4 @@ for i in range(0, N):
         if j % 2 != 0:
             print(string[j], end='')
 
-    print("")
+    print("end of the program")
